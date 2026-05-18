@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+body {
+  min-height: 100vh;
+  font-family: 'Noto Sans TC', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
